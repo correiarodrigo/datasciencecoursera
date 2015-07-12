@@ -1,2 +1,2 @@
 # datasciencecoursera
-Repository of data science course
+Repository of Data Science Specialization
